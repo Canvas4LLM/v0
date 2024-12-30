@@ -1,0 +1,15 @@
+{
+  "name": "Canvas LLM",
+  "short_name": "Canvas",
+
+  "start_url": "/v0",
+  "display": "standalone",
+  
+  "icons": [
+    {
+      "src": "/v0/assets/canvas.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
